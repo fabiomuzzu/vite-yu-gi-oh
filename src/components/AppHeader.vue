@@ -18,7 +18,7 @@ export default {
 </template>
 
 <style scoped lang="scss">
-@use'../style/partial/_variables.scss' as *;
+@use'../../style/partial/_variables.scss' as *;
 
 #header {
     height: 70px;
